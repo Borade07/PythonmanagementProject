@@ -1,0 +1,12 @@
+CREATE TABLE customer (
+    First_name   CHAR,
+    Last_name    CHAR,
+    Mobile       INTEGER (10),
+    Adhar        INTEGER (16),
+    room         INTEGER,
+    wait,
+    foood        INTEGER,
+    tax          INTEGER,
+    game,
+    game_charges
+);
